@@ -13,3 +13,7 @@
 ```
 android:theme="@style/AppTheme.WhiteAccent"
 ```
+
+
+Ver mas:
+https://stackoverflow.com/questions/2020882/how-to-change-progress-bars-progress-color-in-android
